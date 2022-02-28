@@ -1,4 +1,5 @@
 # Rose-DeathMatch
+Sıfırdan 1 haftada yazılmış fakat ekip arkadaşımızın sağlık sorunları nedeniyle vaz geçilmiş bir projedir istediğiniz gibi kullanabilirsiniz.
 SA:MP DeathMatch Gamemode
 
 # Credits
